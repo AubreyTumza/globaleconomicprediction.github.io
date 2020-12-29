@@ -1,0 +1,253 @@
+/*
+  Template 0123
+  Designed by CSS Templates For Free and licensed under the Creative Commons Attribution 3.0
+  Website: http://www.csstemplatesforfree.org/
+  Twitter: @cssforfree
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: underline;
+  color: #B96346;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+body {
+  background: #304950 url('images/bg1.gif') repeat-x left top;
+  font-family: Arial, sans-serif;
+  line-height: 1.5em;
+  font-size: 12pt;
+  color: #CBD2D3;
+}
+
+br.clear-all {
+  clear: both;
+}
+
+h1,h2,h3,h4 {
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h2,h3,h4 {
+  margin-bottom: 0.75em;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #FFF;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+img.float-left {
+  float: left;
+  margin: 5px 20px 20px 0;
+}
+
+img.float-top {
+  margin: 5px 0 20px 0;
+}
+
+p {
+  margin-bottom: 1.25em;
+}
+
+ul {
+  margin-bottom: 1.25em;
+}
+
+ul h4 {
+  margin-bottom: 0.3em;
+}
+
+#column1 {
+  width: 625px;
+  padding: 0;
+  margin: 0 0 0 315px;
+}
+
+#column2 {
+  width: 300px;
+  float: left;
+  padding: 0;
+}
+
+#content1 {
+  overflow: hidden;
+  margin: 0 0 15px 0;
+}
+
+#content2 {
+  overflow: hidden;
+}
+
+#feature-box {
+  padding: 0;
+  margin: 20px 0 20px 0;
+  position: relative;
+  background: #000;
+  height: 310px;
+  width: 980px;
+}
+
+#footer {
+  position: relative;
+  color: #D4D9DA;
+  margin: 0 0 0 0;
+  padding: 20px;
+  width: 940px;
+}
+
+#footer a {
+  color: #E6E9EA;
+}
+
+#footer h2, #footer h3, #footer h4 {
+  color: #E6E9EA;
+}
+
+#footer ul {
+  list-style: none;
+}
+
+#footer-column1 {
+  margin: 0 0 0 315px;
+  width: 625px;
+}
+
+#footer-column2 {
+  width: 300px;
+  float: left;
+}
+
+#header {
+  height: 90px;
+  position: relative;
+  padding: 20px;
+  width: 940px;
+}
+
+#inner-container {
+  padding: 20px;
+  position: relative;
+  border-top: solid 1px #4D7480;
+  width: 940px;
+  border-bottom: solid 1px #000000;
+  background: #1D2C30 url('images/bg2.gif') repeat-x left top;
+  color: #CCCDCD;
+  margin: 0 0 0 0;
+}
+
+#inner-container .features {
+  list-style: none;
+  padding-left: 0;
+}
+
+#inner-container .features li {
+  padding: 10px 0 10px 0;
+  clear: both;
+}
+
+#inner-container a {
+  color: #E0E0E0;
+}
+
+#inner-container h2, #inner-container h3, #inner-container h4 {
+  color: #E0E0E0;
+}
+
+#inner-container strong {
+  color: #E3E3E3;
+}
+
+#inner-container ul {
+  list-style: none;
+}
+
+#main-logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  line-height: 90px;
+  height: 90px;
+}
+
+#main-logo a {
+  text-decoration: none;
+  color: #FFF;
+}
+
+#main-logo h1 {
+  font-size: 1.75em;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+#main-menu {
+  top: 45px;
+  height: 40px;
+  right: 20px;
+  position: absolute;
+  line-height: 40px;
+}
+
+#main-menu a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #E6E9EA;
+}
+
+#main-menu ul {
+  padding: 0 10px 0 10px;
+  list-style: none;
+}
+
+#main-menu ul li {
+  padding: 0 5px 0 5px;
+  display: inline;
+}
+
+#outer-container {
+  margin: 90px auto 0 auto;
+  width: 980px;
+  position: relative;
+}
+
+#search-form input.btn {
+  margin-left: 1em;
+  border: 0;
+  border-bottom: solid 1px #814531;
+  background: #B96346 url('images/bg3.gif') repeat-x left top;
+  padding: 6px;
+  color: #FFF;
+  border-top: solid 1px #DCB1A3;
+}
+
+#search-form input.txt {
+  padding: 5px;
+  border: dashed 1px #FFF;
+}
+
+#site-credits {
+  text-align: center;
+  padding: 35px 0 55px 0;
+  margin: 0 0 50px 0;
+}
+
+#site-credits a {
+  color: #CBD2D3;
+}
